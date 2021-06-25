@@ -36,37 +36,34 @@
     color: var(--content);
 }
 
-.post-content h3,
-.post-content h4,
-.post-content h5,
-.post-content h6 {
-    margin: 24px 0 16px;
-}
-
 .post-content h1 {
-    margin: 40px auto 32px;
-    font-size: 40px;
-}
-
-.post-content h2 {
-    margin: 32px auto 24px;
+    margin: 32px auto 16px;
     font-size: 32px;
 }
 
+.post-content h2 {
+    margin: 28px auto 14px;
+    font-size: 28px;
+}
+
 .post-content h3 {
+    margin: 24px auto 12px;
     font-size: 24px;
 }
 
 .post-content h4 {
-    font-size: 16px;
+    margin: 20px auto 10px;
+    font-size: 20px;
 }
 
 .post-content h5 {
-    font-size: 14px;
+    margin: 18px auto 9px;
+    font-size: 18px;
 }
 
 .post-content h6 {
-    font-size: 12px;
+    margin: 16px auto 8px;
+    font-size: 16px;
 }
 
 .post-content a,
