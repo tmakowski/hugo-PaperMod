@@ -201,6 +201,7 @@
     line-height: 1.5;
     background: var(--code-bg);
     border-radius: 2px;
+    white-space: pre;
 }
 
 .post-content pre code {
